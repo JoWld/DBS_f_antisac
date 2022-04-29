@@ -1,4 +1,16 @@
 
+#   This script is part (1) of the EEG analysis of an antisaccade task and creates 
+#       configurations to be used in the following parts. 
+
+#  Copyright (C) April 2020, last modified April 2022
+#   J.Waldthaler, A. Sperlich, D. Pedrosa
+#   University Hospital of Gießen and Marburg
+#
+#   This software may be used, copied, or redistributed as long as it is
+#   not sold and this copyright notice is reproduced on each copy made.
+#   This routine is provided as is without any express or implied
+#   warranties whatsoever.
+
 import os
 # select all subjects and conditions to be analyzed
 subjects = {
