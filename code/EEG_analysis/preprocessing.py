@@ -1,6 +1,6 @@
 
 #   This script is part (2) of the EEG analysis of an antisaccade task including 
-#   loading of raw data, finding events and identification of bad channels 
+#   loading of raw data, finding events, and identification and interpolation of bad channels 
 
 #  Copyright (C) April 2020, last modified April 2022
 #   J.Waldthaler, A. Sperlich, D. Pedrosa
