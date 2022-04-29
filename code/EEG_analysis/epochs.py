@@ -1,4 +1,4 @@
-#   This script is part (3) of the EEG analysis of an antisaccade task and creates epochs from cleaned data. 
+#   This script is part (4) of the EEG analysis of an antisaccade task and creates epochs from cleaned data. 
 
 #  Copyright (C) April 2020, last modified April 2022
 #   J.Waldthaler, A. Sperlich, D. Pedrosa
