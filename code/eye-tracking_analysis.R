@@ -1,5 +1,5 @@
 
-%   This function runs an analysis pipeline for an antisaccade task recorded in .asc format (Eyelink 1000) 
+%   This function runs an analysis pipeline for an antisaccade task recorded in .asc format (Eyelink 1000) in R
 
 %   Copyright (C) April 2020, last modified April 2022
 %   J.Waldthaler, A. Sperlich, D. Pedrosa
