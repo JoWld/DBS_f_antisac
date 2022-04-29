@@ -37,10 +37,9 @@ subj= ''
 cond='off'
 
 #%% Define paths as used in your setup
-raw_path = '/Users/jowld/Documents/'
+raw_path = '/'
 subjects_dir        = os.path.join(raw_path, 'subjects')
 eeg_path            = os.path.join(raw_path, 'EEG_data')
 et_path             = os.path.join(raw_path, 'Eyelinkdata')
 eeg_groupdir        = os.path.join(raw_path, 'groupanalysis')
-subjects_dir_tmp    = os.path.join('/Users/jowld/Documents/subjects')
 
