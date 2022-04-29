@@ -1,14 +1,14 @@
 
-%   This function runs an analysis pipeline for an antisaccade task recorded in .asc format (Eyelink 1000) in R
+#  This function runs an analysis pipeline for an antisaccade task recorded in .asc format (Eyelink 1000) in R
 
-%   Copyright (C) April 2020, last modified April 2022
-%   J.Waldthaler, A. Sperlich, D. Pedrosa
-%   University Hospital of Gießen and Marburg
-%
-%   This software may be used, copied, or redistributed as long as it is
-%   not sold and this copyright notice is reproduced on each copy made.
-%   This routine is provided as is without any express or implied
-%   warranties whatsoever.
+#  Copyright (C) April 2020, last modified April 2022
+#   J.Waldthaler, A. Sperlich, D. Pedrosa
+#   University Hospital of Gießen and Marburg
+#
+#   This software may be used, copied, or redistributed as long as it is
+#   not sold and this copyright notice is reproduced on each copy made.
+#   This routine is provided as is without any express or implied
+#   warranties whatsoever.
 
 # load required packages
 require(eyelinker)
