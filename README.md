@@ -1,4 +1,4 @@
-# DBS_f_antisac
+# PD_DBS_Antisac
 
 High- and Low-Frequency Deep Brain Stimulation in the Subthalamic Nucleus differentially modulate Response Inhibition and Action Selection in Parkinson’s Disease
 
