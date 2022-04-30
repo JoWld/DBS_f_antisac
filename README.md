@@ -10,7 +10,7 @@ This repo contains the code required to reproduce the task and most of the analy
 TASK
 
 Files required to run the antisaccade task in Matlab with Psychtoolbox are under ./task 
-antisac.m is the main scirpt, the others are related to connecting and synchronizing of the Eyelink 1000 
+./task/antisac.m is the main scirpt, the others are related to connecting and synchronizing of the Eyelink 1000 
 
 ANALYSIS CODE
 
