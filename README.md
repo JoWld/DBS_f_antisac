@@ -1,5 +1,12 @@
 # DBS_f_antisac
 
+High- and Low-Frequency Deep Brain Stimulation in the Subthalamic Nucleus differentially modulate Response Inhibition and Action Selection in Parkinson’s Disease
+
+Josefine Waldthaler, Alexander Sperlich, Aylin König, Charlotte Stüssel, Frank Bremmer, Lars Timmermann & David Pedrosa 
+
+This repo contains the code required to reproduce the task and most of the analysis presented in this study: 
+
+
 TASK
 
 Files required to run the antisaccade task in Matlab with Psychtoolbox are under ./task 
@@ -12,4 +19,6 @@ The R code to break down the raw eye-tracking files (converted into .asc format)
 ./EEG-analysis contains the Python code required to run all steps of the sensor-level EEG analysis including group-level statistics.
 R code for trial-by-trial regressions of band power and antisaccade measures can be found in ./stats
 
+DATA
 
+The raw datasets cannot be made publicly available due to the German and European data privacy laws, but can be requested from the corresponding author in an anonymized form for replication purposes. 
